@@ -7,7 +7,7 @@
   "theme_color": "#0f172a",
   "icons": [
     {
-      "src": "/jishan.png",
+      "src": "/jishan.svg",
       "sizes": "192x192",
       "type": "image/png"
     },
