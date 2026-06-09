@@ -8,13 +8,8 @@
   "icons": [
     {
       "src": "/jishan.svg",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/jishan.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "sizes": "any",
+      "type": "image/svg+xml"
     }
   ]
 }
