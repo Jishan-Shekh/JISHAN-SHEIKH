@@ -1,10 +1,10 @@
 {
   "name": "Jishan Portfolio",
-  "short_name": "Portfolio",
+  "short_name": "Jishan",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#020617",
-  "theme_color": "#020617",
+  "background_color": "#0a0a0a",
+  "theme_color": "#d10000",
   "icons": [
     {
       "src": "/jishans.png",
